@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "994520086138",
+    "project_id": "my-iiit-44555",
+    "storage_bucket": "my-iiit-44555.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994520086138:android:2c3111de23ee8f2576adc3",
+        "android_client_info": {
+          "package_name": "com.example.my_iiit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994520086138-vgjbggfq65avregbvq8telj4akc1jql8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa1MDejdqLRbGJuQGJ8nkCmkcGgr7kskY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994520086138-vgjbggfq65avregbvq8telj4akc1jql8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "994520086138-6op3o1qk8ioh0mcm16jj0ah2a3j0uhmr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myIiit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
